@@ -1,4 +1,4 @@
-Crie uma função de número de parâmetros indefinido, que realiza a soma dos números repassados como parâmetro, independentemente da quantidade de números:'''
+#Crie uma função de número de parâmetros indefinido, que realiza a soma dos números repassados como parâmetro, independentemente da quantidade de números:'''
 
 def soma(*args):
     num = 0
